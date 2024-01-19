@@ -17,6 +17,9 @@ for bios setting use:<br>
 - Dell: F2 or F12
 - HP ESC or F10
 - Lenovo: F2 of Fn+F12
-  
+Step: 2 In bios setting disable the secure boot option.
+<br> Then go to boot menu option<br>
+![img](https://rog-forum.asus.com/t5/image/serverpage/image-id/74117i202745192B683E9D/image-size/medium/is-moderation-mode/true?v=v2&px=400)<br>
+Step: 3 
 
  
