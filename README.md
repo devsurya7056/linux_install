@@ -2,11 +2,21 @@
 Steps to install Linux on device using bootable flashdrive:<br>
 **prerequisite:** Bootable flash drive with properly burned linux iso<br>
 if not then <br>
-**Download the Ubuntu iso file from https://ubuntu.com/download**<br>
-**Download the iso burner from https://www.freeisoburner.com** <br>
+Download the Ubuntu iso file from https://ubuntu.com/download<br>
+Download the iso burner from https://www.freeisoburner.com<br>
 Now with the help of burner tools create bootable flash drive.<br>
-![img]("https://www.freeisoburner.com/screenshot.gif").
-use any iso burner software (power iso,yummy iso burner,or many) for creating a bootable flash drive 
-
+![img](https://www.freeisoburner.com/screenshot.gif)<br>
+use any iso burner software (power iso,yummy iso burner,or many) for creating a bootable flash drive <br>
+**reboot the device**
+and follow the steps<br>
 # Installation of Linux:<br>
-Step 1: 
+Step 1: Go to bios setting of your device<br>
+for bios setting use:<br>
+- Acer: F2 or del
+- Asus: F2 or del
+- Dell: F2 or F12
+- HP ESC or F10
+- Lenovo: F2 of Fn+F12
+  
+
+ 
