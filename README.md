@@ -20,6 +20,7 @@ for bios setting use:<br>
 <br>
 Step: 2 In bios setting disable the secure boot option.
 <br> Then go to boot menu option<br>
+
 ![img](https://rog-forum.asus.com/t5/image/serverpage/image-id/74117i202745192B683E9D/image-size/medium/is-moderation-mode/true?v=v2&px=400)
 
  
